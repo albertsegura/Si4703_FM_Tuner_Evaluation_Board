@@ -1,7 +1,14 @@
 Si4703_Breakout	KEYWORD1
 powerOn	KEYWORD2
-setChannel	KEYWORD2
+powerOff	KEYWORD2
+setVolume	KEYWORD2
+getVolume	KEYWORD2
+increaseVolume	KEYWORD2
+decreaseVolume	KEYWORD2
+toggleMute	KEYWORD2
+isMuted	KEYWORD2
 seekUp	KEYWORD2
 seekDown	KEYWORD2
-setVolume	KEYWORD2
+setChannel	KEYWORD2
+getChannel	KEYWORD2
 readRDS	KEYWORD2
